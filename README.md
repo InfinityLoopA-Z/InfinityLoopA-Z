@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InfinityLoopA-Z
-- 👀 I’m interested in Data Science, Web Desing.
-- 🌱 I’m currently learning Python and Flask, Html Css Js.
+- 👀 I’m interested in DevOps, Software Desing.
+- 🌱 I’m currently learning Clound Infrastructure.
 - 💞️ I’m looking to collaborate on Google Repositories.
 
 <!---
