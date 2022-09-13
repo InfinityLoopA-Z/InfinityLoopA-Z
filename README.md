@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InfinityLoopA-Z
 - 👀 I’m interested in DevOps, Software Desing.
-- 🌱 I’m currently learning Clound Infrastructure.
+- 🌱 I’m currently learning Cloud Infrastructure.
 - 💞️ I’m looking to collaborate on Google Repositories.
 
 <!---
